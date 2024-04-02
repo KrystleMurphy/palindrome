@@ -1,6 +1,9 @@
 # Palindrome Checker
 This app is designed to check if a word is a palindrome
 
+https://krystlemurphy.github.io/palindrome/
+
+
 ## How To
 - input the word to be checked
 - click the check button
